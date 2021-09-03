@@ -17,6 +17,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/GabrielAlvin">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielAlvin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlvin&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
 
 ## Meus canais e redes sociais
