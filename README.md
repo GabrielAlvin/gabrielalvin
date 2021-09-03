@@ -18,6 +18,7 @@ Here are some ideas to get you started:
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlvin&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+## Meus canais e redes sociais
 <div style="margin-top: 10em"> 
   <a href="https://www.youtube.com/channel/UCmkP_w1m2DvgYW3mqsI3dhw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/alvin_gso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
