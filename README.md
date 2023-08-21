@@ -7,11 +7,9 @@
 
 ## Status:
 <div style="display: inline_block">
-  <a href="https://github.com/GabrielAlvin">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielAlvin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlvin&layout=compact&langs_count=9&theme=dark"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielAlvin&theme=dark" alt="GabrielAlvin" />
-  </a>
+  <img width="350rem" src="https://github-readme-stats.vercel.app/api?username=GabrielAlvin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <br>
+  <img width="350rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlvin&layout=compact&langs_count=9&theme=dark"/> <br>
+  <img width="350rem" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielAlvin&theme=dark" alt="GabrielAlvin" />
 </div>
 
 ## Contact:
