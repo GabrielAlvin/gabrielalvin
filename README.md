@@ -1,4 +1,4 @@
-### Hi, I'm Gabriel Souza! 👋
+### Hi, I'm Gabriel Oliveira! 👋
 
 ## Information about me:
 <p style="align:justify">This repository is a showcase of my work, experience, and learning throughout the years. Each project is an opportunity to demonstrate my technical and creative skills, as well as my commitment to continuous learning.</p>
